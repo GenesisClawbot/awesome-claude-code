@@ -953,6 +953,12 @@ A flat list view of all resources. Category: **All** | Sorted: alphabetically by
 <td colspan="4"><img src="https://img.shields.io/github/stars/grahama1970/claude-task-runner?style=flat-square" alt="stars"> <img src="https://img.shields.io/github/forks/grahama1970/claude-task-runner?style=flat-square" alt="forks"> <img src="https://img.shields.io/github/issues/grahama1970/claude-task-runner?style=flat-square" alt="issues"> <img src="https://img.shields.io/github/issues-pr/grahama1970/claude-task-runner?style=flat-square" alt="prs"> <img src="https://img.shields.io/github/created-at/grahama1970/claude-task-runner?style=flat-square" alt="created"> <img src="https://img.shields.io/github/last-commit/grahama1970/claude-task-runner?style=flat-square" alt="last-commit"> <img src="https://img.shields.io/github/release-date/grahama1970/claude-task-runner?style=flat-square" alt="release-date"> <img src="https://img.shields.io/github/v/release/grahama1970/claude-task-runner?style=flat-square" alt="version"> <img src="https://img.shields.io/github/license/grahama1970/claude-task-runner?style=flat-square" alt="license"></td>
 </tr>
 <tr>
+<td><a href="https://genesisclawbot.github.io/claude-agent-security-checklist/"><b>claude-agent-security-checklist</b></a><br>by <a href="https://github.com/GenesisClawbot">Jamie Cole</a></td>
+<td>Workflows & Knowledge Guides</td>
+<td>General</td>
+<td>50-point security checklist for Claude agent deployments in production. Covers prompt injection, data exfiltration, access control, rate limiting, and more.</td>
+</tr>
+<tr>
 <td><a href="https://github.com/costiash/claude-code-docs"><b>claude-code-docs</b></a><br>by <a href="https://github.com/costiash">Constantin Shafranski</a></td>
 <td>Workflows & Knowledge Guides</td>
 <td>General</td>
@@ -1032,6 +1038,15 @@ A flat list view of all resources. Category: **All** | Sorted: alphabetically by
 </tr>
 <tr>
 <td colspan="4"><img src="https://img.shields.io/github/stars/phiat/claude-esp?style=flat-square" alt="stars"> <img src="https://img.shields.io/github/forks/phiat/claude-esp?style=flat-square" alt="forks"> <img src="https://img.shields.io/github/issues/phiat/claude-esp?style=flat-square" alt="issues"> <img src="https://img.shields.io/github/issues-pr/phiat/claude-esp?style=flat-square" alt="prs"> <img src="https://img.shields.io/github/created-at/phiat/claude-esp?style=flat-square" alt="created"> <img src="https://img.shields.io/github/last-commit/phiat/claude-esp?style=flat-square" alt="last-commit"> <img src="https://img.shields.io/github/release-date/phiat/claude-esp?style=flat-square" alt="release-date"> <img src="https://img.shields.io/github/v/release/phiat/claude-esp?style=flat-square" alt="version"> <img src="https://img.shields.io/github/license/phiat/claude-esp?style=flat-square" alt="license"></td>
+</tr>
+<tr>
+<td><a href="https://github.com/GenesisClawbot/claude-guard"><b>claude-guard</b></a><br>by <a href="https://github.com/GenesisClawbot">Jamie Cole</a></td>
+<td>Tooling</td>
+<td>General</td>
+<td>Runtime safety SDK for Claude agents. Blocks prompt injection, enforces guardrails, and logs violations in 10 lines of Python. pip install claude-guard.</td>
+</tr>
+<tr>
+<td colspan="4"><img src="https://img.shields.io/github/stars/GenesisClawbot/claude-guard?style=flat-square" alt="stars"> <img src="https://img.shields.io/github/forks/GenesisClawbot/claude-guard?style=flat-square" alt="forks"> <img src="https://img.shields.io/github/issues/GenesisClawbot/claude-guard?style=flat-square" alt="issues"> <img src="https://img.shields.io/github/issues-pr/GenesisClawbot/claude-guard?style=flat-square" alt="prs"> <img src="https://img.shields.io/github/created-at/GenesisClawbot/claude-guard?style=flat-square" alt="created"> <img src="https://img.shields.io/github/last-commit/GenesisClawbot/claude-guard?style=flat-square" alt="last-commit"> <img src="https://img.shields.io/github/release-date/GenesisClawbot/claude-guard?style=flat-square" alt="release-date"> <img src="https://img.shields.io/github/v/release/GenesisClawbot/claude-guard?style=flat-square" alt="version"> <img src="https://img.shields.io/github/license/GenesisClawbot/claude-guard?style=flat-square" alt="license"></td>
 </tr>
 <tr>
 <td><a href="https://github.com/johnlindquist/claude-hooks"><b>claude-hooks</b></a><br>by <a href="https://github.com/johnlindquist">John Lindquist</a></td>
@@ -1383,6 +1398,12 @@ A flat list view of all resources. Category: **All** | Sorted: alphabetically by
 </tr>
 <tr>
 <td colspan="4"><img src="https://img.shields.io/github/stars/cheukyin175/learn-faster-kit?style=flat-square" alt="stars"> <img src="https://img.shields.io/github/forks/cheukyin175/learn-faster-kit?style=flat-square" alt="forks"> <img src="https://img.shields.io/github/issues/cheukyin175/learn-faster-kit?style=flat-square" alt="issues"> <img src="https://img.shields.io/github/issues-pr/cheukyin175/learn-faster-kit?style=flat-square" alt="prs"> <img src="https://img.shields.io/github/created-at/cheukyin175/learn-faster-kit?style=flat-square" alt="created"> <img src="https://img.shields.io/github/last-commit/cheukyin175/learn-faster-kit?style=flat-square" alt="last-commit"> <img src="https://img.shields.io/github/release-date/cheukyin175/learn-faster-kit?style=flat-square" alt="release-date"> <img src="https://img.shields.io/github/v/release/cheukyin175/learn-faster-kit?style=flat-square" alt="version"> <img src="https://img.shields.io/github/license/cheukyin175/learn-faster-kit?style=flat-square" alt="license"></td>
+</tr>
+<tr>
+<td><a href="https://genesisclawbot.github.io/llm-token-counter/"><b>llm-token-counter</b></a><br>by <a href="https://github.com/GenesisClawbot">Jamie Cole</a></td>
+<td>Tooling</td>
+<td>Usage Monitors</td>
+<td>Browser-based token counter for Claude API cost estimation. Paste your prompts and get token counts and cost estimates instantly. No API key needed.</td>
 </tr>
 <tr>
 <td><a href="https://github.com/metabase/metabase/blob/master/CLAUDE.md"><b>Metabase</b></a><br>by <a href="https://github.com/metabase">metabase</a></td>
@@ -1773,6 +1794,6 @@ A flat list view of all resources. Category: **All** | Sorted: alphabetically by
 
 ---
 
-**Total Resources:** 192
+**Total Resources:** 195
 
-**Last Generated:** 2026-03-02
+**Last Generated:** 2026-03-03

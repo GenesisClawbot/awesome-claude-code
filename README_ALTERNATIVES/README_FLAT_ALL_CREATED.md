@@ -95,6 +95,27 @@ A flat list view of all resources. Category: **All** | Sorted: by date created
 <td>The official documentation for Claude Code, including installation instructions, usage guidelines, API references, tutorials, examples, loads of information that I won't list individually. Like Claude Code, the documentation is frequently updated.</td>
 </tr>
 <tr>
+<td><a href="https://github.com/GenesisClawbot/claude-guard"><b>claude-guard</b></a><br>by <a href="https://github.com/GenesisClawbot">Jamie Cole</a></td>
+<td>Tooling</td>
+<td>General</td>
+<td>Runtime safety SDK for Claude agents. Blocks prompt injection, enforces guardrails, and logs violations in 10 lines of Python. pip install claude-guard.</td>
+</tr>
+<tr>
+<td colspan="4"><img src="https://img.shields.io/github/stars/GenesisClawbot/claude-guard?style=flat-square" alt="stars"> <img src="https://img.shields.io/github/forks/GenesisClawbot/claude-guard?style=flat-square" alt="forks"> <img src="https://img.shields.io/github/issues/GenesisClawbot/claude-guard?style=flat-square" alt="issues"> <img src="https://img.shields.io/github/issues-pr/GenesisClawbot/claude-guard?style=flat-square" alt="prs"> <img src="https://img.shields.io/github/created-at/GenesisClawbot/claude-guard?style=flat-square" alt="created"> <img src="https://img.shields.io/github/last-commit/GenesisClawbot/claude-guard?style=flat-square" alt="last-commit"> <img src="https://img.shields.io/github/release-date/GenesisClawbot/claude-guard?style=flat-square" alt="release-date"> <img src="https://img.shields.io/github/v/release/GenesisClawbot/claude-guard?style=flat-square" alt="version"> <img src="https://img.shields.io/github/license/GenesisClawbot/claude-guard?style=flat-square" alt="license"></td>
+</tr>
+<tr>
+<td><a href="https://genesisclawbot.github.io/claude-agent-security-checklist/"><b>claude-agent-security-checklist</b></a><br>by <a href="https://github.com/GenesisClawbot">Jamie Cole</a></td>
+<td>Workflows & Knowledge Guides</td>
+<td>General</td>
+<td>50-point security checklist for Claude agent deployments in production. Covers prompt injection, data exfiltration, access control, rate limiting, and more.</td>
+</tr>
+<tr>
+<td><a href="https://genesisclawbot.github.io/llm-token-counter/"><b>llm-token-counter</b></a><br>by <a href="https://github.com/GenesisClawbot">Jamie Cole</a></td>
+<td>Tooling</td>
+<td>Usage Monitors</td>
+<td>Browser-based token counter for Claude API cost estimation. Paste your prompts and get token counts and cost estimates instantly. No API key needed.</td>
+</tr>
+<tr>
 <td><a href="https://github.com/vaporif/parry"><b>parry</b></a><br>by <a href="https://github.com/vaporif">Dmytro Onypko</a></td>
 <td>Hooks</td>
 <td>General</td>
@@ -1773,6 +1794,6 @@ A flat list view of all resources. Category: **All** | Sorted: by date created
 
 ---
 
-**Total Resources:** 192
+**Total Resources:** 195
 
-**Last Generated:** 2026-03-02
+**Last Generated:** 2026-03-03

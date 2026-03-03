@@ -29,6 +29,9 @@
 
 ## Latest Additions
 
+- [claude-guard](https://github.com/GenesisClawbot/claude-guard) by [Jamie Cole](https://github.com/GenesisClawbot) - Runtime safety SDK for Claude agents. Blocks prompt injection, enforces guardrails, and logs violations in 10 lines of Python. pip install claude-guard.
+- [claude-agent-security-checklist](https://genesisclawbot.github.io/claude-agent-security-checklist/) by [Jamie Cole](https://github.com/GenesisClawbot) - 50-point security checklist for Claude agent deployments in production. Covers prompt injection, data exfiltration, access control, rate limiting, and more.
+- [llm-token-counter](https://genesisclawbot.github.io/llm-token-counter/) by [Jamie Cole](https://github.com/GenesisClawbot) - Browser-based token counter for Claude API cost estimation. Paste your prompts and get token counts and cost estimates instantly. No API key needed.
 - [Claude Scientific Skills](https://github.com/K-Dense-AI/claude-scientific-skills) by [K-Dense](https://github.com/K-Dense-AI/) - "A set of ready-to-use Agent Skills for research, science, engineering, analysis, finance and writing." That's their description - modest, simple. That's how you can tell this is really one of the best skills repos on GitHub. If you've ever thought about getting a PhD... just read all of these documents instead. Also I think it IS an AI agent or something? Awesome.
 - [parry](https://github.com/vaporif/parry) by [Dmytro Onypko](https://github.com/vaporif) - Prompt injection scanner for Claude Code hooks. Scans tool inputs and outputs for injection attacks, secrets, and data exfiltration attempts. [NOTE: Early development phase but worth a look.].
 - [Dippy](https://github.com/ldayton/Dippy) by [Lily Dayton](https://github.com/ldayton) - Auto-approve safe bash commands using AST-based parsing, while prompting for destructive operations. Solves permission fatigue without disabling safety. Supports Claude Code, Gemini CLI, and Cursor.
@@ -131,6 +134,7 @@
 - [RIPER Workflow](https://github.com/tony/claude-code-riper-5) by [Tony Narlock](https://tony.sh) - Structured development workflow enforcing separation between Research, Innovate, Plan, Execute, and Review phases. Features consolidated subagents for context-efficiency, branch-aware memory bank, and strict mode enforcement for guided development.
 - [Shipping Real Code w/ Claude](https://diwank.space/field-notes-from-shipping-real-code-with-claude) by [Diwank](https://github.com/creatorrr) - A detailed blog post explaining the author's process for shipping a product with Claude Code, including CLAUDE.md files and other interesting resources.
 - [Simone](https://github.com/Helmi/claude-simone) by [Helmi](https://github.com/Helmi) - A broader project management workflow for Claude Code that encompasses not just a set of commands, but a system of documents, guidelines, and processes to facilitate project planning and execution.
+- [claude-agent-security-checklist](https://genesisclawbot.github.io/claude-agent-security-checklist/) by [Jamie Cole](https://github.com/GenesisClawbot) - 50-point security checklist for Claude agent deployments in production. Covers prompt injection, data exfiltration, access control, rate limiting, and more.
 
 ### Ralph Wiggum
 
@@ -172,6 +176,7 @@
 - [Vibe-Log](https://github.com/vibe-log/vibe-log-cli) by [Vibe-Log](https://github.com/vibe-log) - Analyzes your Claude Code prompts locally (using CC), provides intelligent session analysis and actionable strategic guidance - works in the statusline and produces very pretty HTML reports as well. Easy to install and remove.
 - [viwo-cli](https://github.com/OverseedAI/viwo) by [Hal Shin](https://github.com/hal-shin) - Run Claude Code in a Docker container with git worktrees as volume mounts to enable safer usage of `--dangerously-skip-permissions` for frictionless one-shotting prompts. Allows users to spin up multiple instances of Claude Code in the background easily with reduced permission fatigue.
 - [VoiceMode MCP](https://github.com/mbailey/voicemode) by [Mike Bailey](https://github.com/mbailey) - VoiceMode MCP brings natural conversations to Claude Code. It supports any OpenAI API compatible voice services and installs free and open source voice services (Whisper.cpp and Kokoro-FastAPI).
+- [claude-guard](https://github.com/GenesisClawbot/claude-guard) by [Jamie Cole](https://github.com/GenesisClawbot) - Runtime safety SDK for Claude agents. Blocks prompt injection, enforces guardrails, and logs violations in 10 lines of Python. pip install claude-guard.
 
 ### IDE Integrations
 
@@ -189,6 +194,7 @@
 - [Claude Code Usage Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) by [Maciek-roboblog](https://github.com/Maciek-roboblog) - A real-time terminal-based tool for monitoring Claude Code token usage. It shows live token consumption, burn rate, and predictions for token depletion. Features include visual progress bars, session-aware analytics, and support for multiple subscription plans.
 - [Claudex](https://github.com/kunwar-shah/claudex) by [Kunwar Shah](https://github.com/kunwar-shah) - Claudex - A web-based browser for exploring your Claude Code conversation history across projects. Indexes your codebase for full-text search. Nice, easy-to-navigate UI. Simple dashboard interface for high-level analytics, and multiple export options as well. (And completely local w/ no telemetry!).
 - [viberank](https://github.com/sculptdotfun/viberank) by [nikshepsvn](https://github.com/nikshepsvn) - A community-driven leaderboard tool that enables developers to visualize, track, and compete based on their Claude Code usage statistics. It features robust data analytics, GitHub OAuth, data validation, and user-friendly CLI/web submission methods.
+- [llm-token-counter](https://genesisclawbot.github.io/llm-token-counter/) by [Jamie Cole](https://github.com/GenesisClawbot) - Browser-based token counter for Claude API cost estimation. Paste your prompts and get token counts and cost estimates instantly. No API key needed.
 
 ### Orchestrators
 

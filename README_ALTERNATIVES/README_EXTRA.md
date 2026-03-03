@@ -187,6 +187,16 @@
   </picture>
 </div>
 
+<a href="https://github.com/GenesisClawbot/claude-guard"><img src="../assets/badge-claude-guard.svg" alt="claude-guard"></a>  
+_Runtime safety SDK for Claude agents. Blocks prompt injection, enforces guardrails, and logs violations in 10 lines of Python. pip install claude-guard._  
+![GitHub Stats for claude-guard](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=claude-guard&username=GenesisClawbot&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
+
+<a href="https://genesisclawbot.github.io/claude-agent-security-checklist/"><img src="../assets/badge-claude-agent-security-checklist.svg" alt="claude-agent-security-checklist"></a>  
+_50-point security checklist for Claude agent deployments in production. Covers prompt injection, data exfiltration, access control, rate limiting, and more._
+
+<a href="https://genesisclawbot.github.io/llm-token-counter/"><img src="../assets/badge-llm-token-counter.svg" alt="llm-token-counter"></a>  
+_Browser-based token counter for Claude API cost estimation. Paste your prompts and get token counts and cost estimates instantly. No API key needed._
+
 <a href="https://github.com/K-Dense-AI/claude-scientific-skills"><img src="../assets/badge-claude-scientific-skills.svg" alt="Claude Scientific Skills"></a>  
 _"A set of ready-to-use Agent Skills for research, science, engineering, analysis, finance and writing." That's their description - modest, simple. That's how you can tell this is really one of the best skills repos on GitHub. If you've ever thought about getting a PhD... just read all of these documents instead. Also I think it IS an AI agent or something? Awesome._  
 ![GitHub Stats for claude-scientific-skills](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=claude-scientific-skills&username=K-Dense-AI&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
@@ -904,6 +914,12 @@ _A broader project management workflow for Claude Code that encompasses not just
 <div align="center"><img src="../assets/entry-separator-light-animated.svg" alt=""></div>
 
 
+<a href="https://genesisclawbot.github.io/claude-agent-security-checklist/"><img src="../assets/badge-claude-agent-security-checklist.svg" alt="claude-agent-security-checklist"></a>  
+_50-point security checklist for Claude agent deployments in production. Covers prompt injection, data exfiltration, access control, rate limiting, and more._
+
+<div align="center"><img src="../assets/entry-separator-light-animated.svg" alt=""></div>
+
+
 </details>
 
 <details open id="ralph-wiggum">
@@ -1155,6 +1171,13 @@ _VoiceMode MCP brings natural conversations to Claude Code. It supports any Open
 <div align="center"><img src="../assets/entry-separator-light-animated.svg" alt=""></div>
 
 
+<a href="https://github.com/GenesisClawbot/claude-guard"><img src="../assets/badge-claude-guard.svg" alt="claude-guard"></a>  
+_Runtime safety SDK for Claude agents. Blocks prompt injection, enforces guardrails, and logs violations in 10 lines of Python. pip install claude-guard._  
+![GitHub Stats for claude-guard](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=claude-guard&username=GenesisClawbot&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
+
+<div align="center"><img src="../assets/entry-separator-light-animated.svg" alt=""></div>
+
+
 </details>
 
 <details open id="ide-integrations">
@@ -1237,6 +1260,12 @@ _Claudex - A web-based browser for exploring your Claude Code conversation histo
 <a href="https://github.com/sculptdotfun/viberank"><img src="../assets/badge-viberank.svg" alt="viberank"></a>  
 _A community-driven leaderboard tool that enables developers to visualize, track, and compete based on their Claude Code usage statistics. It features robust data analytics, GitHub OAuth, data validation, and user-friendly CLI/web submission methods._  
 ![GitHub Stats for viberank](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=viberank&username=sculptdotfun&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
+
+<div align="center"><img src="../assets/entry-separator-light-animated.svg" alt=""></div>
+
+
+<a href="https://genesisclawbot.github.io/llm-token-counter/"><img src="../assets/badge-llm-token-counter.svg" alt="llm-token-counter"></a>  
+_Browser-based token counter for Claude API cost estimation. Paste your prompts and get token counts and cost estimates instantly. No API key needed._
 
 <div align="center"><img src="../assets/entry-separator-light-animated.svg" alt=""></div>
 

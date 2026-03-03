@@ -68,6 +68,12 @@ A flat list view of all resources. Category: **Workflows** | Sorted: by date cre
 <td>A detailed blog post explaining the author's process for shipping a product with Claude Code, including CLAUDE.md files and other interesting resources.</td>
 </tr>
 <tr>
+<td><a href="https://genesisclawbot.github.io/claude-agent-security-checklist/"><b>claude-agent-security-checklist</b></a><br>by <a href="https://github.com/GenesisClawbot">Jamie Cole</a></td>
+<td>Workflows & Knowledge Guides</td>
+<td>General</td>
+<td>50-point security checklist for Claude agent deployments in production. Covers prompt injection, data exfiltration, access control, rate limiting, and more.</td>
+</tr>
+<tr>
 <td><a href="https://github.com/marcindulak/ralph-wiggum-bdd"><b>ralph-wiggum-bdd</b></a><br>by <a href="https://github.com/marcindulak">marcindulak</a></td>
 <td>Workflows & Knowledge Guides</td>
 <td>Ralph Wiggum</td>
@@ -342,6 +348,6 @@ A flat list view of all resources. Category: **Workflows** | Sorted: by date cre
 
 ---
 
-**Total Resources:** 32
+**Total Resources:** 33
 
-**Last Generated:** 2026-03-02
+**Last Generated:** 2026-03-03

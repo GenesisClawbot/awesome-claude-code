@@ -170,6 +170,12 @@ A flat list view of all resources. Category: **Workflows** | Sorted: alphabetica
 <td colspan="4"><img src="https://img.shields.io/github/stars/maxritter/claude-codepro?style=flat-square" alt="stars"> <img src="https://img.shields.io/github/forks/maxritter/claude-codepro?style=flat-square" alt="forks"> <img src="https://img.shields.io/github/issues/maxritter/claude-codepro?style=flat-square" alt="issues"> <img src="https://img.shields.io/github/issues-pr/maxritter/claude-codepro?style=flat-square" alt="prs"> <img src="https://img.shields.io/github/created-at/maxritter/claude-codepro?style=flat-square" alt="created"> <img src="https://img.shields.io/github/last-commit/maxritter/claude-codepro?style=flat-square" alt="last-commit"> <img src="https://img.shields.io/github/release-date/maxritter/claude-codepro?style=flat-square" alt="release-date"> <img src="https://img.shields.io/github/v/release/maxritter/claude-codepro?style=flat-square" alt="version"> <img src="https://img.shields.io/github/license/maxritter/claude-codepro?style=flat-square" alt="license"></td>
 </tr>
 <tr>
+<td><a href="https://genesisclawbot.github.io/claude-agent-security-checklist/"><b>claude-agent-security-checklist</b></a><br>by <a href="https://github.com/GenesisClawbot">Jamie Cole</a></td>
+<td>Workflows & Knowledge Guides</td>
+<td>General</td>
+<td>50-point security checklist for Claude agent deployments in production. Covers prompt injection, data exfiltration, access control, rate limiting, and more.</td>
+</tr>
+<tr>
 <td><a href="https://github.com/costiash/claude-code-docs"><b>claude-code-docs</b></a><br>by <a href="https://github.com/costiash">Constantin Shafranski</a></td>
 <td>Workflows & Knowledge Guides</td>
 <td>General</td>
@@ -342,6 +348,6 @@ A flat list view of all resources. Category: **Workflows** | Sorted: alphabetica
 
 ---
 
-**Total Resources:** 32
+**Total Resources:** 33
 
-**Last Generated:** 2026-03-02
+**Last Generated:** 2026-03-03

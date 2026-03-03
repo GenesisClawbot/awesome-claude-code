@@ -46,6 +46,23 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
 ## Latest Additions ✨ [🔝](#awesome-claude-code)
 
 
+[`claude-guard`](https://github.com/GenesisClawbot/claude-guard) &nbsp; by &nbsp; [Jamie Cole](https://github.com/GenesisClawbot)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Runtime safety SDK for Claude agents. Blocks prompt injection, enforces guardrails, and logs violations in 10 lines of Python. pip install claude-guard.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for claude-guard](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=claude-guard&username=GenesisClawbot&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
+[`claude-agent-security-checklist`](https://genesisclawbot.github.io/claude-agent-security-checklist/) &nbsp; by &nbsp; [Jamie Cole](https://github.com/GenesisClawbot)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+50-point security checklist for Claude agent deployments in production. Covers prompt injection, data exfiltration, access control, rate limiting, and more.
+
+[`llm-token-counter`](https://genesisclawbot.github.io/llm-token-counter/) &nbsp; by &nbsp; [Jamie Cole](https://github.com/GenesisClawbot)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Browser-based token counter for Claude API cost estimation. Paste your prompts and get token counts and cost estimates instantly. No API key needed.
+
 [`Claude Scientific Skills`](https://github.com/K-Dense-AI/claude-scientific-skills) &nbsp; by &nbsp; [K-Dense](https://github.com/K-Dense-AI/)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 "A set of ready-to-use Agent Skills for research, science, engineering, analysis, finance and writing." That's their description - modest, simple. That's how you can tell this is really one of the best skills repos on GitHub. If you've ever thought about getting a PhD... just read all of these documents instead. Also I think it IS an AI agent or something? Awesome.
 
@@ -677,6 +694,9 @@ A broader project management workflow for Claude Code that encompasses not just 
 </details>
 <br>
 
+[`claude-agent-security-checklist`](https://genesisclawbot.github.io/claude-agent-security-checklist/) &nbsp; by &nbsp; [Jamie Cole](https://github.com/GenesisClawbot)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+50-point security checklist for Claude agent deployments in production. Covers prompt injection, data exfiltration, access control, rate limiting, and more.
+
 </details>
 
 <details open>
@@ -1014,6 +1034,17 @@ VoiceMode MCP brings natural conversations to Claude Code. It supports any OpenA
 </details>
 <br>
 
+[`claude-guard`](https://github.com/GenesisClawbot/claude-guard) &nbsp; by &nbsp; [Jamie Cole](https://github.com/GenesisClawbot)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Runtime safety SDK for Claude agents. Blocks prompt injection, enforces guardrails, and logs violations in 10 lines of Python. pip install claude-guard.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for claude-guard](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=claude-guard&username=GenesisClawbot&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
 </details>
 
 <details open>
@@ -1136,6 +1167,9 @@ A community-driven leaderboard tool that enables developers to visualize, track,
 
 </details>
 <br>
+
+[`llm-token-counter`](https://genesisclawbot.github.io/llm-token-counter/) &nbsp; by &nbsp; [Jamie Cole](https://github.com/GenesisClawbot)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Browser-based token counter for Claude API cost estimation. Paste your prompts and get token counts and cost estimates instantly. No API key needed.
 
 </details>
 
